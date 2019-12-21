@@ -1,3 +1,3 @@
 # ProjetGenieLogiciel
  
- A simple maven school project integrated with jenkins and sonarqube.
+ A simple maven integration with jenkins and sonarqube.
